@@ -82,21 +82,19 @@ A Set of Mobile Applications built with React native to implement the core featu
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository
 
    ```bash
    git clone https://github.com/Shaban-Eissa/React-Native-Practical-Guide
    ```
 
-2. Navigate to the project directory:
+2. Navigate to the project directory
     
     ```bash
     cd React-Native-Practical-Guide
     ```
-
-3. Change to folder for the app you want
    
-4. Install dependencies:
+3. Change to folder for the app you want, Install dependencies
     
     ```bash
     npm install
